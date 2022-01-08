@@ -1,2 +1,5 @@
 [submodule "https://github.com/flylinfan/SubModule1.git"]
 	url = submodule
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/flylinfan/SubModule1.git
